@@ -4,5 +4,6 @@ public class Haha {
 		System.out.println("Haha");
 		//Add a comment
 		System.out.println("let's meet in Hanoi.");
+		System.out.println("I'm here.");
 	}
 }	
